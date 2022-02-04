@@ -55,4 +55,4 @@ You actually look like Julien Clerc when he was younger."
 ### TL;DR
 Oh well... dreams come and go (as mine was heavily crushed)!
 
-<< https://github.com/SIRIEZ-Axel/challenge-markdown || https://github.com/BastienDP || https://github.com/chris-delecluse >>
+<< [Previous] https://github.com/SIRIEZ-Axel/challenge-markdown || Bastien De Pauw || https://github.com/chris-delecluse [Next] >>
